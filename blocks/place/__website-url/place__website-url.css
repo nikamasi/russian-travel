@@ -1,0 +1,16 @@
+.place__website-url {
+  position: absolute;
+  left: 0;
+  bottom: 34px;
+  margin: 0;
+  font-style: normal;
+  font-size: 12px;
+  line-height: 12px;
+  color: #aaaaaa;
+}
+
+@media screen and (max-width: 766px) {
+  .place__website-url {
+    padding-left: 16px;
+  }
+}

@@ -1,0 +1,28 @@
+.photo-grid__item {
+  max-width: 284px;
+  max-height: 213px;
+  margin: 7px;
+  box-sizing: border-box;
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+  .photo-grid__item {
+    max-width: 300px;
+    max-height: 224px;
+  }
+}
+
+@media screen and (min-width: 767px) and (max-width: 1023px) {
+  .photo-grid__item {
+    max-width: 284px;
+    max-height: 213px;
+    margin: 8px;
+  }
+}
+
+@media screen and (max-width: 766px) {
+  .photo-grid__item {
+    max-height: 216px;
+    margin: 6px;
+  }
+}

@@ -1,23 +1,8 @@
-# Проект: Путешествие по России
+Responsive web-site with CSS 
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+A one page web-site about travelling in Russia (in Russian)
 
-**Интро**
-
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
-
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+* includes a short intro section, an image gallery section, info cards on certain destinations, links to external resources
+* uses only CSS, no JS, uses flexbox and grid layouts 
+* resposnive and adaptive for convenient display on resolutions from 320px to 1280px (including by using media queries);
+* follows [BEM](https://en.bem.info/) class naming convention and file structure organization methodology to simplify reusing code
