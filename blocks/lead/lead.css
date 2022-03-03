@@ -5,6 +5,7 @@
   margin: 0 auto;
   max-width: 984px;
   align-items: center;
+  margin-bottom: 92px;
 }
 
 @media screen and (max-width: 1279px) and (min-width: 1024px) {
@@ -17,6 +18,7 @@
   .lead {
     min-width: 768px;
     min-height: 862px;
+    margin-bottom: 88px;
   }
 }
 
@@ -24,5 +26,6 @@
   .lead {
     min-width: 320px;
     min-height: 406px;
+    margin-bottom: 64px;
   }
 }

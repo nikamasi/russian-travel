@@ -4,8 +4,9 @@
   -mox-osx-font-smoothing: grayscale;
   background-color: #2a2c2f;
   color: white;
-  margin: auto;
+  margin: 0 auto;
   justify-items: center;
   max-width: 1281px;
   min-width: 320px;
+  width: 100vw;
 }
