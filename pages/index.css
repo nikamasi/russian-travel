@@ -3,7 +3,6 @@
 
 @import url("../blocks/page/page.css");
 @import url("../blocks/link/link.css");
-@import url("../blocks/visually-hidden/visually-hidden.css");
 
 /* HEADER */
 @import url("../blocks/header/header.css");
